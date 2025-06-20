@@ -1,5 +1,4 @@
 # Kerala-tourism-site
-# Kerala Tourism - Static Web Page
 
 A visually rich and responsive static website themed around the beautiful state of **Kerala**, showcasing destinations, traditions, and culture. This project was built using HTML, CSS, and JavaScript.
 
